@@ -1,8 +1,0 @@
-using System;
-class User
-{
-	public static void main(String args)
-	{
-		Console.writeLine("Hello World");
-	}
-}
